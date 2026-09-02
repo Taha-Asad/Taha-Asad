@@ -22,7 +22,7 @@ Three live client products shipped across two internships, from requirements thr
 | | |
 |---|---|
 | **Languages** | `JavaScript` `TypeScript` `C#` `Rust` |
-| **Frontend** | `React` `Next.js` `Tailwind CSS` `HTML5` `CSS3` `WordPress` |
+| **Frontend** | `React` `Next.js` `Tailwind CSS` `HTML5` `CSS3` `WordPress` `Wix Studio` |
 | **Backend** | `Node.js` `Express.js` `REST APIs` `Socket.io` |
 | **Data** | `PostgreSQL` `MongoDB` `MySQL` `SQLite` `Prisma` `Mongoose` |
 | **Tools** | `Git` `VS Code` `Vercel` `Linux` `Postman` |
