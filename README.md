@@ -27,30 +27,5 @@ Three live client products shipped across two internships, from requirements thr
 | **Data** | `PostgreSQL` `MongoDB` `MySQL` `SQLite` `Prisma` `Mongoose` |
 | **Tools** | `Git` `VS Code` `Vercel` `Linux` `Postman` |
 
----
-
-### Featured Projects
-
-**[Ijaz & Company ERP](https://github.com/Taha-Asad/solid-succotash)**
-Single-tenant desktop ERP — inventory, invoicing, purchase orders, and a double-entry accounting ledger.
-`Tauri` `React` `Mantine` `Rust` `SQLite`
-
-**[DeployFlow AI](https://github.com/Taha-Asad/DeployFlow)**
-VS Code extension that automates deployment to 7+ cloud platforms with AI-powered build error fixing.
-`TypeScript`
-
-**[University Management System](https://github.com/Taha-Asad/UMS)**
-CRUD-based academic administration tool for students, faculty, courses, and grades.
-`React` `Node.js` `TypeScript`
-
-**[Real-Time Chat Application](https://github.com/Taha-Asad/Week-4)**
-Full-duplex messaging with JWT auth, persistent chat history, and media uploads via Cloudinary.
-`Node.js` `Express` `MongoDB` `Socket.io`
-
-**[CheckMate POS](https://github.com/Taha-Asad/CheckMatePOS)**
-Console-based point-of-sale system with role-based access, multi-method payments, and sales reporting.
-`C#` `.NET 9` `SQLite`
-
----
 
 Lahore, Pakistan
