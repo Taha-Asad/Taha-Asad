@@ -26,6 +26,3 @@ Three live client products shipped across two internships, from requirements thr
 | **Backend** | `Node.js` `Express.js` `REST APIs` `Socket.io` |
 | **Data** | `PostgreSQL` `MongoDB` `MySQL` `SQLite` `Prisma` `Mongoose` |
 | **Tools** | `Git` `VS Code` `Vercel` `Linux` `Postman` |
-
-
-Lahore, Pakistan
